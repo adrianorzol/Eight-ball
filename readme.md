@@ -1,5 +1,6 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Eight-ball
+Levitating billard ball no. 8 created with Three.js
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -15,3 +16,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Sources
+App created by tutorial [Getting Started with THREE.JS in 2021!](https://www.youtube.com/watch?v=pUgWfqWZWmM&ab_channel=DesignCourse)
